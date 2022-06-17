@@ -1,3 +1,2 @@
 # Ecommerce
-Saya membuat aplikasi Ecommerce dengan nama RizkiStore. 
-Note : Aplikasi masih dalam tahap pengembangan
+<b>Note :<b> Aplikasi masih dalam tahap pengembangan
