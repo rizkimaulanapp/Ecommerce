@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+body{
+    font-family: 'Roboto Slab', serif;
+    font-size : 16px;
+}
+.card-img{
+    width: 40%;
+}
+.jumbotron{
+    padding: 6%;
+    background-color: #202021;
+}
+body{
+   background-color: #363131;
+}
+.judul{
+    font-family: "Roboto Slab";
+    font-size: 50px;
+    color :white;
+    text-align: center;
+}
+.card{
+    box-shadow: 0 5px 50px rgba(0,0,0,0.5);
+    background-color: white;
+    margin: 25px;
+    border-radius: 20px;
+}
+.card-img{
+    width: 35%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+}
+.card-text{
+    font-weight: bold;
+}

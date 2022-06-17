@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300&display=swap');
+body{
+    background-color: #363131;
+    font-family: 'Roboto Slab', serif;
+    color : white;
+    font-size : 16px;
+}
+.form-control{
+    width: 300px;
+}
+.carousel-item{
+    height:550px;
+}
+.carousel-item .display-4{
+    margin-top: -350px;
+    
+}

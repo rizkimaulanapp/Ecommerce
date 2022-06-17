@@ -1,0 +1,44 @@
+
+.jumbotron{
+    padding-top: 2rem;
+    background-color: #323233;
+}
+.lead{
+    color: white;
+    
+}
+.display{
+    color: white;
+    font-weight: bold;
+}
+.about{
+    margin-top: 5%;
+    
+}
+.col-4{
+    margin-top: 10px;
+    font-family: "Roboto Slab";
+}
+.id-ahli{
+    background-color:#323233 ;
+    color: white;
+    padding-bottom: 7%;
+} 
+.img-ahli{
+    width: 10%;
+}
+.ahli-text{
+    color: black;
+    font-family: "Roboto Slab";
+}
+.ahli-title{
+    color: black;
+}
+footer{
+    background-color: black;
+    padding: 3%;
+}
+footer p {
+    color: white;
+    text-align: center;
+}
